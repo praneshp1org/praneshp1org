@@ -40,3 +40,5 @@ I am a Mobile Applications Developer <img src="https://media.giphy.com/media/WUl
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=praneshp1org&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Pranesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=praneshp1org&show_icons=true&theme=radical)
+
+[![Check out praneshp1org's profile on stardev.io](https://stardev.io/developers/praneshp1org/badge/languages/locality.svg)](https://stardev.io/developers/praneshp1org)
