@@ -11,9 +11,9 @@
 
 ### :man_technologist: About Me :
 I am a Mobile Applications Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nepal.
-- :telescope: I’m working as a flutter developer and contributing to building beautiful and efficient cross platform applications.
+- :telescope: I’m working as a Flutter Developer and contributing to building beautiful and efficient cross platform applications.
 
-- :seedling: Engineering Student @ IOE, Pulchowk Campus
+- :seedling: Second year engineering student @ IOE, Pulchowk Campus
 
 - :zap: In my free time, I love to code.
 
