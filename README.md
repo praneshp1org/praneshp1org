@@ -6,7 +6,7 @@
 
 
 # 💫 About Me:
-I’m working as a Flutter Developer and contributing to building beautiful and efficient cross platform applications.<br>Second year engineering student @IOE, Pulchowk Campus<br>
+I’m working as a Flutter Developer and contributing to building beautiful and efficient cross platform applications. Currently, I'm learning Node.js<br>Second year engineering student @IOE, Pulchowk Campus<br>
 
 
 ## 🌐 Socials:
