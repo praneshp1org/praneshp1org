@@ -4,9 +4,50 @@
 </div>
 <img src="https://komarev.com/ghpvc/?username=praneshp1org&style=flat-square&color=blue" alt=""/>
 
+### Location
+```geojson
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              85.32319582141696,
+              27.68190100078523
+            ],
+            [
+              85.32401101266373,
+              27.681153331827588
+            ],
+            [
+              85.32443316527377,
+              27.681797874336894
+            ],
+            [
+              85.32383632882409,
+              27.682635773911997
+            ],
+            [
+              85.32319582141696,
+              27.68190100078523
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    }
+  ]
+}
+```
+
 
 # 💫 About Me:
 I’m working as a Flutter Developer and contributing to building beautiful and efficient cross platform applications. Currently, I'm learning Node.js<br>Second year engineering student @IOE, Pulchowk Campus<br>
+
 
 
 ## 🌐 Socials:
