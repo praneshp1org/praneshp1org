@@ -30,6 +30,18 @@
     </td>
     <td align="center" width="96">
       <a href="#pranesh">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" />
+      </a>
+      <br>Azure
+    </td>
+    <td align="center" width="96">
+      <a href="#pranesh">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" />
+      </a>
+      <br>Dart
+    </td>
+    <td align="center" width="96">
+      <a href="#pranesh">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain-wordmark.svg" />
       </a>
       <br>Android
