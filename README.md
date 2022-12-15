@@ -11,7 +11,7 @@
  </tr>
 </table>
 
-> This Guy is 100% Geek and code-blooded.
+> Exploring DevOps and Cloud...
 
 ## 🔨 Tools
 <table>
