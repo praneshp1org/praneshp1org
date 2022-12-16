@@ -38,7 +38,7 @@
       <a href="#pranesh">
         <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" />
       </a>
-      <br>Dart
+      <br>Docker
     </td>
     <td align="center" width="96">
       <a href="#pranesh">
