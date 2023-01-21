@@ -95,13 +95,13 @@
       <a href="#pranesh">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
       </a>
-      <br>VS&nbsp;VS Code
+      <br>VS&nbsp;Code
     </td>
         <td align="center" width="96">
       <a href="#pranesh">
         <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
       </a>
-      <br>VS&nbsp;AWS
+      <br>AWS
     </td>
     <td align="center" width="96">
       <a href="#pranesh">
@@ -114,13 +114,9 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=praneshp1org&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=praneshp1org&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=praneshp1org&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=praneshp1org&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 [![Check out praneshp1org's profile on stardev.io](https://stardev.io/developers/praneshp1org/badge/languages/locality.svg)](https://stardev.io/developers/praneshp1org)
 
