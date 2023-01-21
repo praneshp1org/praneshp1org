@@ -95,7 +95,13 @@
       <a href="#pranesh">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
       </a>
-      <br>VS&nbsp;Code
+      <br>VS&nbsp;VS Code
+    </td>
+        <td align="center" width="96">
+      <a href="#pranesh">
+        <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+      </a>
+      <br>VS&nbsp;AWS
     </td>
     <td align="center" width="96">
       <a href="#pranesh">
