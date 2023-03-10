@@ -6,7 +6,7 @@
   </td>
   <td align="center" width="300">
    <h1> Pranesh P. Shrestha </h1>
-   <h4> Flutter Developer | Student </h4>
+   <h4> Flutter Developer | Engineering Student </h4>
   </td>
  </tr>
 </table>
