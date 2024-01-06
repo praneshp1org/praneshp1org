@@ -34,6 +34,12 @@
       </a>
       <br>Azure
     </td>
+       <td align="center" width="96">
+      <a href="#pranesh">
+        <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jenkins/jenkins-original.svg" />
+      </a>
+      <br>Jenkins
+    </td>
     <td align="center" width="96">
       <a href="#pranesh">
         <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" />
@@ -69,7 +75,7 @@
   <tr>
     <td align="center" width="96">
       <a href="#pranesh">
-        <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/androidstudio/androidstudio-original.svg" />
+        <img src="c" />
       </a>
       <br>Android Studio
     </td>
