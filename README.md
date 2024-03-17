@@ -123,10 +123,6 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=praneshp1org&theme=radical&hide_border=false)<br/>
 
-# Spotify
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31i7bojkl4w7zjok2ugxoyghnmom)
-
 
 [![Check out praneshp1org's profile on stardev.io](https://stardev.io/developers/praneshp1org/badge/languages/locality.svg)](https://stardev.io/developers/praneshp1org)
 
