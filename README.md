@@ -5,13 +5,12 @@
    <img alt="GIF" src="https://media.giphy.com/media/kbRb4eyCNC0aMz5x68/giphy.gif" width=300 />
   </td>
   <td align="center" width="300">
-   <h1> Pranesh P. Shrestha </h1>
-   <h4> Flutter Developer | Engineering Student </h4>
+   <h1> Pranesh Pyara Shrestha </h1>
+   <h4>23, Engineer</h4>
   </td>
  </tr>
 </table>
 
-> Exploring DevOps and Cloud...
 
 ## 🔨 Tools
 <table>
